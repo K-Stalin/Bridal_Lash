@@ -11,3 +11,8 @@ Before running the Application make sure you have the following prerequisites in
 
   - JSON Web server
   - Postman
+
+You can install and run these dependencies using the following command:
+
+   `>> npm install -g json-server`
+   `>> json-server --watch data.json --port 3000`
