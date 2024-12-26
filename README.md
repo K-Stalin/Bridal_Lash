@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/0ad9e30c-572b-45ba-8397-0db757347a39)
 
-This is a simple Frontend Application using JSON web server.It allows  admin to perform basic operations  on updating makeup prices.
+This is a simple frontend application that allows the admin to perform basic operations on updating makeup prices, without the need for MongoDB or Node.js—just a JSON web server.
 
 
 # Requirements
